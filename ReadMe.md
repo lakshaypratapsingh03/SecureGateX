@@ -88,21 +88,25 @@ JWT_SECRET=your_super_secret_key
 Start the backend:
 
 ```bash
-npm start
+cd server
+npm run dev
 ```
+The React backend should now be running at:
+MongoDB Connected: 127.0.0.1
+ Server running at http://localhost:5000
 
 ---
 
 ### Frontend Setup
 
 ```bash
-cd ../client
+cd client
 npm install
-npm start
+npm run dev
 ```
 
 The React frontend should now be running at:
- (`http://localhost:`)
+ (` http://localhost:5173/`)
 
 ---
 
@@ -128,9 +132,9 @@ The React frontend should now be running at:
 
 ##  Author
 
-**Project Name:** SecureGateX
+**Project Name: ** SecureGateX **
 **Created by:** *[Lakshya pratap shekhawat]*
-**GitHub:** 
+**GitHub:*https://github.com/lakshaypratapsingh03/SecureGateX.git* 
 
 ---
 
