@@ -1,4 +1,4 @@
-Here's a complete **`README.md`** file for your MERN-based auth system named **(SecureGateX)**:
+Here's a complete **`README.md`** file for my MERN-based auth system named **(SecureGateX)**:
 
 ---
 
