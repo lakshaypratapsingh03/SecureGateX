@@ -132,9 +132,9 @@ The React frontend should now be running at:
 
 ##  Author
 
-**Project Name: ** SecureGateX **
-**Created by:** *[Lakshya pratap shekhawat]*
-**GitHub:*https://github.com/lakshaypratapsingh03/SecureGateX.git* 
+*Project Name: SecureGateX 
+*Created by: [Lakshya pratap shekhawat]
+*GitHub: https://github.com/lakshaypratapsingh03/SecureGateX.git
 
 ---
 
